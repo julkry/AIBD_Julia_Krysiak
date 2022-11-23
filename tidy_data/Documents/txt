@@ -1,1 +1,14 @@
+#../AnalysisData/billboards_weeks.csv
+File contains tracks with artists and it shows what rank each song was on a given week.
+Variables:
+* artist.inverted - orginal file: ..\OriginalData\billboard.csv
+* track - orginal file: ..\OriginalData\billboard.csv
+* week - week of the chart that given track was on
+* rank - rank in the given week of a track
 
+#../AnalysisData/billboards_counter.csv
+File contains tracks with artists and it shows how long did the track stay on the charts.
+Variables:
+* artist.inverted - orginal file: ..\OriginalData\billboard.csv
+* track - orginal file: ..\OriginalData\billboard.csv
+* weeks on chart - counter of the weeks that given track was on the charts
