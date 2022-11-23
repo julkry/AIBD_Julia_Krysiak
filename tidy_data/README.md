@@ -14,7 +14,7 @@ tidy_data
     └── billboard.csv	     	      // Orginal data.
 ```
 
-Requirements to correctly open AiBD_lab2/CommandFiles/lab2.ipynb:
+Requirements to correctly open tidy_data/CommandFiles/TidyData.ipynb:
 ```
 python>=3.8.10
 jupyter>=1.0.0
