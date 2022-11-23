@@ -1,9 +1,0 @@
-Variables:
-* year - year the track was released
-* artist.inverted - name of the artist/band that created the track
-* track - name of the track
-* time - duration of the track
-* genre - the genre of the track
-* date.entered - date when the track entered the chart
-* date.peaked - date when the track peaked in the chart
-* x1st.week...x76th.week - position in the chart of the track in the given week
